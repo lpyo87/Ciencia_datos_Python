@@ -1,6 +1,6 @@
 Luis Pedro Pérez - 22008067
 Ciencia de Datos en Python
-#¿Qué es Git y Github?
+#Investigación #1: Git, GitHub y Markdown
 > # Git
 Git es un sistema de control de versiones distribuido lo cual implica una copia en un repositorio en la nube, teniendo copias en un repositorio local. El cual por medio de comandos se llegan a sincronizar las mismas.
 ## Comandos
@@ -17,4 +17,7 @@ Dentro de la terminal se utilizan los comandos para poder utilizar git. Existen 
 - **git status** se utiliza para visualizar las modificaciones realizadas a los archivos del repositorio. Asímismo indica el código SHA de actualización para poder restaurar la información de los archivos en caso fuera necesaria.
 - **git checkout** comando utilizado para restaurar el estado de uno o varios archivos. Este código se utiliza en conjunto con el código SHA obtenido del comando ***git status***.
 
-> # Github
+> # GitHub
+[GitHub](https://github.com/) es un sitio web  en el cual se puede sincronizar las aplicaciones o el progreso de los proyectos realizados bajo el sistema Git. De esta manera, sirve de almacenamiento para que otras personas puedan descargarlos, ver los códigos y versiones de los archivos para poder realizarles cambios y se pueda aportar en los mismos creando posibles ramificaciones.
+Para eso se necesita crear un usuario, y repositorios los cuales servirán como carpetas para organizar los proyectos y de esta manera poder tener una clasificación de archivos por proyecto.
+Los repositorios pueden ser públicos o privados dependiendo de la necesidad o nivel de confidencialidad de los archivos. 
